@@ -5,7 +5,7 @@ export const company = {
   phoneHref: 'tel:+917397331592',
   cin: 'U62011TN2025PTC184769',
   address: 'No.13A, 2nd Street, Bhagyalakshmi Nagar, Keelakattalai, Tambaram, Kanchipuram - 600117, Tamil Nadu',
-  portfolio: 'https://sharveshwar-software-portfolio.sharvesh0211.chatgpt.site',
+  portfolio: 'https://portfolio.sbmtechsolutions-pvtltd.workers.dev/',
 };
 
 export const services = [
