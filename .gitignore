@@ -1,0 +1,23 @@
+.local/
+frontend/node_modules/
+frontend/dist/
+
+# Public showcase hygiene
+**/node_modules/
+**/dist/
+**/target/
+**/.local/
+**/.openai/
+**/.env
+**/.env.*
+!**/.env.example
+!**/.env.production
+*.log
+*.tsbuildinfo
+release/
+output/
+tmp/
+*.db
+*.sqlite
+*.pem
+*.key
